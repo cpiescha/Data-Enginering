@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
    <person>
-      <name>simon</name>
-      <height>67.90</height>
-      <weight>112.37</weight>
+      <nombre>simon</nombre>
+      <altura>67.90</altura>
+      <peso>112.37</peso>
    </person>
    <person>
-      <name>jacob</name>
-      <height>66.78</height>
-      <weight>120.67</weight>
+      <nombre>jacob</nombre>
+      <altura>66.78</altura>
+      <peso>120.67</peso>
    </person>
    <person>
-      <name>cindy</name>
-      <height>66.49</height>
-      <weight>127.45</weight>
+      <nombre>cindy</nombre>
+      <altura>66.49</altura>
+      <peso>127.45</peso>
    </person>
    <person>
-      <name>ivan</name>
-      <height>67.62</height>
-      <weight>114.14</weight>
+      <nombre>ivan</nombre>
+      <altura>67.62</altura>
+      <peso>114.14</peso>
    </person>
 </data>
